@@ -34,7 +34,8 @@ public class isAnagram {
                 return false;
             }
         }
-
         return true;
     }
+
+    //subtracting a character by 'char'-'a' results in their index positions of 0-25
 }
